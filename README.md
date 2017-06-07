@@ -1,0 +1,2 @@
+# myLNMP
+lnmp environment config
