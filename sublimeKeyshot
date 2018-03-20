@@ -1,0 +1,15 @@
+[
+{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
+,{ "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"}
+,{ "keys": ["alt+l"], "command": "svn_log" }
+,{ "keys": ["alt+d"], "command": "svn_diff" }
+,{ "keys": ["ctrl+alt+f"], "command": "sftp_upload_file" }
+,{ "keys": ["ctrl+alt+d"], "command": "sftp_download_file" }
+//,{ "keys": ["ctrl+alt+e"], "command": "sftp_download_folder" }
+,{ "keys": ["ctrl+alt+e"], "command": "open_dir", 
+"args": {"dir": "$file_path", "file": "$file_name"} }
+//,{"keys": ["f10"],"command": "open_project_folder"}
+//,{"keys": ["ctrl+f10"],"command": "open_file_folder"}
+
+]
+
