@@ -1,3 +1,4 @@
+//keyshort
 [
 { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" }
 ,{ "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"}
@@ -12,4 +13,18 @@
 //,{"keys": ["ctrl+f10"],"command": "open_file_folder"}
 
 ]
-
+//setting
+{
+	"autoCloseUpdateDialog": false,
+	"color_scheme": "Packages/Color Scheme - Default/Sixteen.tmTheme",
+	"font_size": 14,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Default.sublime-theme",
+	"tortoiseproc_path": "C:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe",
+	"word_wrap": true
+}
