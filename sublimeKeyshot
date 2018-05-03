@@ -26,5 +26,11 @@
 	"show_line_endings": true,
 	"theme": "Default.sublime-theme",
 	"tortoiseproc_path": "C:\\Program Files\\TortoiseSVN\\bin\\TortoiseProc.exe",
-	"word_wrap": true
+	"word_wrap": true,
+	"index_exclude_patterns":
+	[
+		"*.log",
+		"*.js",
+		"*.css"
+	],
 }
