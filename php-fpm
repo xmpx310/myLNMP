@@ -10,6 +10,7 @@
 # Description:       starts the PHP FastCGI Process Manager daemon
 ### END INIT INFO
 # from phpsrcdir/sapi/fpm/init.d.php-fpm
+# test
 prefix=/usr/local
 exec_prefix=${prefix}
 
