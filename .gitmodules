@@ -1,0 +1,3 @@
+[submodule "kaoqin"]
+	path = kaoqin
+	url = git@github.com:xmpx310/kaoqin.git
