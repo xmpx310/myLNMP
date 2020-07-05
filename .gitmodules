@@ -1,3 +1,6 @@
 [submodule "kaoqin"]
 	path = kaoqin
 	url = git@github.com:xmpx310/kaoqin.git
+[submodule "ParseJson"]
+	path = ParseJson
+	url = git@github.com:xmpx310/ParseJson
